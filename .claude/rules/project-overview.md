@@ -8,7 +8,7 @@ Nội dung chính bằng **tiếng Việt**.
 
 ## Thông tin công ty
 
-- **Tên công ty**: Công ty cổ phần Công nghệ tài chính AI Agent
+- **Tên công ty**: Công ty Cổ phần Công nghệ Tài chính AI Agent
 - **Chủ tịch Hội đồng quản trị**: Phạm Bá Trường
 - **Giám đốc điều hành**: Phạm Ngọc Mùi
 
