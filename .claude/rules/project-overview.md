@@ -10,7 +10,7 @@ Nội dung chính bằng **tiếng Việt**.
 
 - **Tên công ty**: Công ty Cổ phần Công nghệ Tài chính AI Agent
 - **Chủ tịch Hội đồng quản trị**: Phạm Bá Trường
-- **Giám đốc điều hành**: Phạm Ngọc Mùi
+- **Giám đốc điều hành**: Phạm Vũ Ngọc Mùi
 
 Các thông tin này dùng cho footer, trang "Về chúng tôi", thẻ meta (title/description), và
 schema.org markup (Organization) nếu cần SEO. Khi viết nội dung, dùng đúng tên công ty đầy đủ
