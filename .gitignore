@@ -2,3 +2,10 @@
 .claude/scheduled_tasks.lock
 them tin tuc.png
 antigravity.google_auth-success_app=antigravity-ide.png
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
